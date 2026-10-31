@@ -1,0 +1,12 @@
+[package]
+name = "symlinker"
+version = "0.1.0"
+edition = "2024"
+description = "Reconcile a directory of symbolic links from an explicit links file"
+
+[dependencies]
+anyhow = "1"
+clap = { version = "4", features = ["derive"] }
+
+[dev-dependencies]
+tempfile = "3"

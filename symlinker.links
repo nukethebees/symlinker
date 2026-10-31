@@ -1,0 +1,7 @@
+# Executables
+ninja.exe = C:\Tools\ninja\ninja.exe
+clang.exe = C:\LLVM\bin\clang.exe
+ffmpeg.exe = C:\Tools\ffmpeg\ffmpeg.exe
+
+# Directories
+scripts = D:\Development\scripts
